@@ -1,7 +1,31 @@
-# 👋 Hi, I’m Sem Keegstra
-#### Quantitative Researcher | CFA charterholder | MSc Quantitative Finance | BSc Econometrics
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semkeegstra)  [![Python](https://img.shields.io/badge/python-%3E%3D3.8-blue)]() [![Docs](https://img.shields.io/badge/docs-Sphinx%20PyData-589ACA)]()
+<!-- banner image -->
+<p align="center">
+  <img src="assets/github-header-image.png" alt="quant-finance banner"/>
+</p>
+<p align="center">
+  <img src="assets/image.png" alt="quant-finance banner"/>
+</p>
+<p align="center">
+  <!-- Information -->
+    <a href="https://linkedin.com/in/semkeegstra" target="_blank" rel="noopener"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <!-- Programming Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-Excellent-blue?logo=python&logoColor=white" />
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener"><img alt="R" src="https://img.shields.io/badge/R-Advanced-blue?logo=r&logoColor=white"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-Intermediate-blue?logo=mathworks&logoColor=white" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noopener"><img alt="Java" src="https://img.shields.io/badge/Java-Intermediate-red?logo=java&logoColor=white"/></a>
+  <!-- Libraries -->
+  <a href="https://pandas.pydata.org" target="_blank" rel="noopener"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-Data-blue?logo=pandas&logoColor=white"/></a>
+  <a href="https://numpy.org" target="_blank" rel="noopener"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-Computing-orange?logo=numpy&logoColor=white"/></a>
+  <a href="https://scipy.org" target="_blank" rel="noopener"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-Optimization-793bc1?logo=scipy&logoColor=white"/></a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noopener"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-Machine Learning-blue?logo=scikit-learn&logoColor=white"/></a>
+  <a href="https://www.statsmodels.org" target="_blank" rel="noopener"><img alt="statsmodels" src="https://img.shields.io/badge/statsmodels-Statistical Modeling-green?logo=statsmodels&logoColor=white"/></a>
+  <a href="https://matplotlib.org" target="_blank" rel="noopener"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-Visual-blue?logo=matplotlib&logoColor=white"/></a>
+  <a href="https://seaborn.pydata.org" target="_blank" rel="noopener"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-Visual-4A7EBB?logo=seaborn&logoColor=white"/></a>
+  <a href="https://xgboost.ai" target="_blank" rel="noopener"><img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-Ensemble Learning-red?logo=xgboost&logoColor=white"/></a>
+  <a href="https://shap.readthedocs.io" target="_blank" rel="noopener"><img alt="SHAP" src="https://img.shields.io/badge/SHAP-Explanatory-purple?logo=shap&logoColor=white"/></a>
+  <!-- Documentation & Community -->
+  <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-docs-5b3681?logo=sphinx&logoColor=white" />
+</p>
 
 ---
 
