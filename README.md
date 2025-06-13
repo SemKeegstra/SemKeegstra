@@ -1,9 +1,6 @@
 <!-- banner image -->
 <p align="center">
-  <img src="assets/github-header-image.png" alt="quant-finance banner"/>
-</p>
-<p align="center">
-  <img src="assets/image.png" alt="quant-finance banner"/>
+  <img src="assets/github-header-banner.png" alt="quant-finance banner"/>
 </p>
 <p align="center">
   <!-- Information -->
