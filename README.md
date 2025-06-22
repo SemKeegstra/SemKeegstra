@@ -44,7 +44,7 @@ on systematic investment strategies.
   - *Development*: Building the `Quant-Finance` python library.
 - 📚 **Recent readings**:
     - The Elements of Quantitative Investing - Paleologo, G. A.
-    - Advanced in Financial Machine Learning - De Prado, M. L.
+    - Advances in Financial Machine Learning - De Prado, M. L.
 - 💼 **Programming & Tools**:  
   - Python, Matlab, Java, R
   - Axioma Portfolio Optimizer
