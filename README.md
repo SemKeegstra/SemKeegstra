@@ -43,8 +43,9 @@ on systematic investment strategies.
   - *Research*: Trade delays & indirect exposure to short-term signals.
   - *Development*: Building the `Quant-Finance` python library.
 - 📚 **Recent readings**:
-    - The Elements of Quantitative Investing - Paleologo, G. A.
-    - Advances in Financial Machine Learning - De Prado, M. L.
+    - Advanced Portfolio Management - Paleologo, G. A. ✅
+    - Advances in Financial Machine Learning - De Prado, M. L. ✅
+    - The Elements of Quantitative Investing - Paleologo, G. A. ⌛
 - 💼 **Programming & Tools**:  
   - Python, Matlab, Java, R
   - Axioma Portfolio Optimizer
